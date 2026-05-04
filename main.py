@@ -162,7 +162,7 @@ if __name__ == "__main__":
     print(maior_caminho(grafo_sp, "Tucuruvi", "Capão Redondo"))
 
     # =====================================================
-    # MAPA (gera arquivo HTML)
+    # MAPA
     # =====================================================
     mapa = folium.Map(location=[-23.55, -46.63], zoom_start=11)
 
